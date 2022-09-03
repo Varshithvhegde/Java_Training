@@ -7,6 +7,5 @@ public class LocalDateEX {
         System.out.println("Yesterday's date: " + yesterday);
         LocalDate tomorrow = yesterday.plusDays(2);
         System.out.println("Tomorrow's date: " + tomorrow);
-        
     }
 }
