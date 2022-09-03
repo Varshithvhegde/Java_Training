@@ -51,3 +51,18 @@ Life cycle of Thread
 - Generics is a feature that was added to the Java programming language in JDK 5.0.
 - Generics provides compile-time type safety that allows programmers to catch invalid types at compile time.
 - Generics also provide runtime performance benefits by eliminating the need for type casting.
+
+## JavaSE 8 Features
+
+- Lambda Expressions
+- Method References
+- Default Methods
+- Stream API
+- Date and Time API
+- Optional Class
+- Nashorn JavaScript Engine
+- Base64 Encoding
+- Annotations
+- Parallel Array Sorting
+- Performance Improvements
+- Java IO Improvements
