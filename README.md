@@ -33,3 +33,10 @@ Life cycle of Thread
 - Thread priorities are in the range of 1 to 10.
 - The default priority of a thread is 5.
 - The thread with the highest priority is executed first.
+
+## Deamon Thread
+
+- A thread which is running in the background is called a daemon thread.
+- It provides services to the user threads for background supporting tasks.
+- Its life depends on the user threads.
+- it is a low priority thread.It has no role in the life cycle of the application.
