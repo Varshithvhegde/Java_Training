@@ -40,3 +40,8 @@ Life cycle of Thread
 - It provides services to the user threads for background supporting tasks.
 - Its life depends on the user threads.
 - it is a low priority thread.It has no role in the life cycle of the application.
+
+## Serialization
+
+- Serialization is a mechanism of writing the state of an object into a byte stream.
+- Deserialization is the reverse process where the byte stream is used to recreate the actual Java object in memory.
