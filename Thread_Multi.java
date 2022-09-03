@@ -12,10 +12,8 @@ public class Thread_Multi extends Thread{
     public static void main(String args[]){
         Thread_Multi t1=new Thread_Multi();
         Thread_Multi t2=new Thread_Multi();
-       // Thread_Multi t3=new Thread_Multi();
         t1.start();
         t2.start();
-        //t3.start();
     }
     
 }

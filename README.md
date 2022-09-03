@@ -22,7 +22,7 @@ Life cycle of Thread
   - The users not blocked
   - not effect another thread while one thread is waiting for I/O(Exception)
 
-## Working of Java Thread  Scheduler
+## Working of Java Thread Scheduler
 
 - The thread scheduler is a part of the JVM.
 - It is responsible for scheduling the threads.
