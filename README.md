@@ -45,3 +45,9 @@ Life cycle of Thread
 
 - Serialization is a mechanism of writing the state of an object into a byte stream.
 - Deserialization is the reverse process where the byte stream is used to recreate the actual Java object in memory.
+
+## Generics
+
+- Generics is a feature that was added to the Java programming language in JDK 5.0.
+- Generics provides compile-time type safety that allows programmers to catch invalid types at compile time.
+- Generics also provide runtime performance benefits by eliminating the need for type casting.
