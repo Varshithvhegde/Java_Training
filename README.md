@@ -27,3 +27,9 @@ Life cycle of Thread
 - The thread scheduler is a part of the JVM.
 - It is responsible for scheduling the threads.
 - It schedules the threads on the basis of priority.
+
+## Thread Priorities
+
+- Thread priorities are in the range of 1 to 10.
+- The default priority of a thread is 5.
+- The thread with the highest priority is executed first.
